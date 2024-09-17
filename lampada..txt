@@ -1,0 +1,6 @@
+Ligaria o primeiro(1) interruptor e deixaria-o ligado por alguns minutos
+Apos alguns minutos desligaria o primeiro(1) interruptor, e ligaria o segundo(2) interruptor.
+Iria a sala das Lampadas, a Lampada que está acessa é controlada pelo segundo(2) interruptor(que esta ligado).
+Verificaria/Tocaria nas outra 2 Lampadas: A Lampada que esta quente, mas está apagada é controlada pelo primeiro(1) interruptor.
+
+Dessa forma conseguiria identificar quais interruptores controla cada Lampada.
